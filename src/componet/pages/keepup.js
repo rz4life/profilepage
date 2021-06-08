@@ -13,7 +13,7 @@ const KeepUp = () =>{
                     <a href = "https://github.com/rz4life/solo-project3frontendHeroku"> Link to Frontend Repo </a>
                 </h5>
                 <h5>
-                    <a href = "https://github.com/rz4life/solo-project3-backend"> Link to Frontend Repo </a>
+                    <a href = "https://github.com/rz4life/solo-project3-backend"> Link to Backend Repo </a>
                 </h5>
                 <h5>
                     <a href = "https://rzkeepup.herokuapp.com"> Link to Heroku App </a>

@@ -15,7 +15,7 @@ const EasternUnion = () =>{
                     <a href = "https://github.com/rz4life/eastern_Union_Frontend"> Link to Frontend Repo </a>
                 </h5>
                 <h5>
-                    <a href = "https://github.com/rz4life/eastern_Union_BACKEND"> Link to Frontend Repo </a>
+                    <a href = "https://github.com/rz4life/eastern_Union_BACKEND"> Link to Backend Repo </a>
                 </h5>
                 <h5>
                     <a href = "https://easternunion.herokuapp.com/"> Link to Heroku App </a>

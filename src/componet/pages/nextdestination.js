@@ -14,7 +14,7 @@ const NextDestination = () =>{
                     <a href = "https://github.com/rz4life/solo-project2frontend"> Link to Frontend Repo </a>
                 </h5>
                 <h5>
-                    <a href = "https://github.com/rz4life/solo-project2backend"> Link to Frontend Repo </a>
+                    <a href = "https://github.com/rz4life/solo-project2backend"> Link to Backend Repo </a>
                 </h5>
                 <h5>
                     <a href = "https://nextdestination.herokuapp.com"> Link to Heroku App </a>
