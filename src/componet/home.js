@@ -8,15 +8,13 @@ const Home = () =>{
                
                 <img className = 'picture' src = {picture}/>
                 <h3 className = 'hometext'>
-                Hi, my name is Abdulrazaq Alagbada, but i go by "RZ". I am a full stack Software developer originally from Nigeria and currently in Austin, Texas. I am a computer science senior at The University of Texas At San Antonio and just completed my 480 hour software engineering immersive course.
+                Hi, my name is Abdulrazaq Alagbada, "RZ" for short. I am a full stack Software developer originally from Nigeria and currently in Austin, Texas. I am a computer science senior at The University of Texas At San Antonio and just completed my 480 hour software engineering immersive course.
                 </h3>
                 <h3 className = 'hometext'>
                 I have a passion for finding solutions to problems with complex answers, whether it be work or life. A background in sales with an entrepreneur spirit, I am a firm believer that the day we stop learning is the day we stop living. 
                 </h3> 
 
             </div>
-        
-        
         </div>
     )
 
